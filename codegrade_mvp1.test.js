@@ -46,7 +46,7 @@ describe('copy', ()=>{
     })
 });
 describe('is31Flavors', ()=>{
-    it('is31Flavours returns true', ()=>{
+    it('is31Flavors returns true', ()=>{
         expect(functions.is31Flavors(originalFlavors)).toBe(true);
     })
 });
